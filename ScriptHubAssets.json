@@ -1,40 +1,40 @@
 {
-    "1":{
+    "0":{
     	"Name":"Universal Aimbot",
         "Icon":"https://media.istockphoto.com/id/1273840650/vector/target-red-icon.jpg?s=612x612&w=0&k=20&c=YjRpxK_XiQvYvVJb-yDVVNAVEPVTDvcqvg1EENnYKqo=",
         "Script":"loadstring(game:HttpGet('https://raw.githubusercontent.com/Exunys/Aimbot-V2/main/Resources/Scripts/Raw%20Main.lua'))()",
         "Game":"Any",
         "Owner":"Exunys"
     },
-    "2":{
+    "1":{
     	"Name":"Mythixz Hub",
         "Icon":"https://tr.rbxcdn.com/180DAY-4f6c473564fa725564910a2742fd1f6d/512/512/Image/Webp/noFilter",
         "Script":"loadstring(game:HttpGet('https://raw.githubusercontent.com/YourRealjohn/RobloxScript/refs/heads/main/PrisonLife-Beta'))()",
         "Game":"Prison Life",
         "Owner":"YourRealJohn"
     },
-    "3":{
+    "2":{
         "Name":"DMON Arsenal",
         "Icon":"https://tr.rbxcdn.com/180DAY-2c691f8c1278352cc98e30afef3c3a4e/512/512/Image/Webp/noFilter",
         "Script":"loadstring(game:HttpGet('http://dmonmods.xyz/arsenal.txt'))()",
         "Game":"Arsenal",
         "Owner":"DMON"
     },
-    "4":{
+    "3":{
         "Name":"DMON Ninja Legends",
         "Icon":"https://tr.rbxcdn.com/180DAY-5835600c60fb20737fdce9235e4f181c/512/512/Image/Webp/noFilter",
         "Script":"loadstring(game:HttpGet('http://dmonmods.xyz/ninja%20legends.txt'))()",
         "Game":"Ninja Legends",
         "Owner":"DMON"
     },
-    "5":{
+    "4":{
         "Name":"DMON Legends Of Speed",
         "Icon":"https://tr.rbxcdn.com/180DAY-8023aff1de792a6a10b562b5deebb860/512/512/Image/Webp/noFilter",
         "Script":"loadstring(game:HttpGet('http://dmonmods.xyz/legends%20of%20speed.txt'))()",
         "Game":"Legends Of Speed",
         "Owner":"DMON"
     },
-    "6":{
+    "5":{
     	"Name":"Kron Hub",
         "Icon":"https://tr.rbxcdn.com/180DAY-59d83194082f7b06a66a983f772ac509/512/512/Image/Webp/noFilter",
         "Script":"loadstring(game:HttpGet('https://raw.githubusercontent.com/DevKron/Kron_Hub/refs/heads/main/version_1.0'))('')",
