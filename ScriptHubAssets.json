@@ -14,13 +14,27 @@
         "Owner":"YourRealJohn"
     },
     "3":{
-        "Name":"SkiddedTech",
+        "Name":"DMON Arsenal",
         "Icon":"URL",
-        "Script":"loadstring(game:HttpGet('https://raw.githubusercontent.com/sytcal/SkiddedTech/main/Arsenal'))()",
+        "Script":"loadstring(game:HttpGet('http://dmonmods.xyz/arsenal.txt'))()",
         "Game":"Arsenal",
-        "Owner":"Zvrll_1"
+        "Owner":"DMON"
     },
     "4":{
+        "Name":"DMON Ninja Legends",
+        "Icon":"URL",
+        "Script":"loadstring(game:HttpGet('http://dmonmods.xyz/ninja%20legends.txt'))()",
+        "Game":"Ninja Legends",
+        "Owner":"DMON"
+    },
+    "5":{
+        "Name":"DMON Legends Of Speed",
+        "Icon":"URL",
+        "Script":"loadstring(game:HttpGet('http://dmonmods.xyz/legends%20of%20speed.txt'))()",
+        "Game":"Legends Of Speed",
+        "Owner":"DMON"
+    },
+    "6":{
     	"Name":"Kron Hub",
         "Icon":"URL",
         "Script":"loadstring(game:HttpGet('https://raw.githubusercontent.com/DevKron/Kron_Hub/refs/heads/main/version_1.0'))('')",
